@@ -1,6 +1,6 @@
 # system_design
 
-A new Flutter project.
+(assets/screenshot.png)
 
 ## Getting Started
 
