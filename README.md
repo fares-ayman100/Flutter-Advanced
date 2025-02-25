@@ -1,6 +1,7 @@
 # system_design
 
-(assets/screenshot.png)
+![وصف الصورة](assets/screenshot.png)
+
 
 ## Getting Started
 
