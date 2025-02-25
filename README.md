@@ -1,6 +1,5 @@
 # system_design
-
-![وصف الصورة](assets/screenshot.png)
+![وصف الصورة](https://github.com/fares-ayman100/Flutter-Advanced/blob/main/assets/System%20Design.png)
 
 
 ## Getting Started
